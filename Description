@@ -1,3 +1,17 @@
-Developed a grid-based Snake game using Python and Pygame, integrating A pathfinding* for guiding the
-snake towards power-ups (lifelines). Technologies Used: Python, Pygame (Game Development), A*
-Algorithm (Pathfinding), Mathematical Optimizations (Perfect Squares for Lifelines)
+Developed a grid-based Snake game using Python and Pygame, integrating A pathfinding* for guiding the snake towards power-ups (lifelines).
+
+Key Features:
+Implemented A algorithm* for dynamic pathfinding.
+Introduced lifelines (hearts) placed at perfect square positions on the grid.
+Collision detection and auto-reset mechanism for limited lifelines.
+Smooth grid-based movement and interactive UI with score tracking.
+
+Technologies Used:
+Python, Pygame (Game Development)
+A* Algorithm (Pathfinding)
+Mathematical Optimizations (Perfect Squares for Lifelines)
+
+Project Impact:
+Showcases game development skills with AI-driven movement.
+Demonstrates proficiency in search algorithms and grid-based logic.
+Enhances problem-solving abilities in real-time decision-making scenarios.
